@@ -1,1 +1,3 @@
-# Mura_de_Avisos
+# Mural_de_Avisos
+
+Simples mural de aviso
